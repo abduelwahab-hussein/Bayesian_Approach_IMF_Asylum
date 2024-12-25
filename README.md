@@ -7,7 +7,11 @@
 
 ## Files:
 bayesian_approach.ipynb is the core of this project, with step-by-step bayesian econometric analysis of the data. 
+
 Random_Forests_IMF.ipynb & LASSO_IMF.ipynb are extension of this project using LASSO and Random Forest.
+
 paper.pdf serves as a guide to IMF loans, immigration, and basic multiple linear regression models as it relates to IMF loans and immigration.
+
 tables.pdf contains standard regression tables (created in STATA).
+
 final_data.csv is the final dataset.
